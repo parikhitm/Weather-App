@@ -4,4 +4,4 @@ The Weather App is a simple user-friendly application designed to provide accura
 
 Developed as part of The Odin Project.
 
-## Live Version
+## [Live Version](https://parikhitm.github.io/Weather-App/)
